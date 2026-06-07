@@ -10,7 +10,7 @@ Além da criação das classes, foi desenvolvido um programa principal responsá
 
 ---
 
-## 🎯 Objetivos
+##  Objetivos
 
 * Aplicar os conceitos de Programação Orientada a Objetos;
 * Criar classes representando objetos do mundo real;
@@ -21,7 +21,7 @@ Além da criação das classes, foi desenvolvido um programa principal responsá
 
 ---
 
-## 📂 Classes Desenvolvidas
+##  Classes Desenvolvidas
 
 | Classe        | Descrição                                                |
 | ------------- | -------------------------------------------------------- |
@@ -59,18 +59,18 @@ Além da criação das classes, foi desenvolvido um programa principal responsá
 ```text
 src/
 │
-├── Pessoa.java
-├── Carro.java
-├── Animal.java
-├── Celular.java
-├── Livro.java
-├── Computador.java
-├── Bicicleta.java
-├── Televisao.java
-├── ContaBancaria.java
-├── Aluno.java
+├── /algprog-lista-10/Pessoa.java
+├── /algprog-lista-10/Carro.java
+├── /algprog-lista-10/Animal.java
+├── /algprog-lista-10/Celular.java
+├── /algprog-lista-10/Livro.java
+├── /algprog-lista-10/Computador.java
+├── /algprog-lista-10/Bicicleta.java
+├── /algprog-lista-10/Televisao.java
+├── /algprog-lista-10/ContaBancaria.java
+├── /algprog-lista-10/Aluno.java
 │
-└── App.java
+└── /algprog-lista-10/App.java
 ```
 
 ---
