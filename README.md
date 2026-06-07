@@ -59,18 +59,18 @@ Além da criação das classes, foi desenvolvido um programa principal responsá
 ```text
 src/
 │
-├── /algprog-lista-10/Pessoa.java
-├── /algprog-lista-10/Carro.java
-├── /algprog-lista-10/Animal.java
-├── /algprog-lista-10/Celular.java
-├── /algprog-lista-10/Livro.java
-├── /algprog-lista-10/Computador.java
-├── /algprog-lista-10/Bicicleta.java
-├── /algprog-lista-10/Televisao.java
-├── /algprog-lista-10/ContaBancaria.java
-├── /algprog-lista-10/Aluno.java
+├── Pessoa.java
+├── Carro.java
+├── Animal.java
+├── Celular.java
+├── Livro.java
+├── Computador.java
+├── Bicicleta.java
+├── Televisao.java
+├── ContaBancaria.java
+├── Aluno.java
 │
-└── /algprog-lista-10/App.java
+└── App.java
 ```
 
 ---
