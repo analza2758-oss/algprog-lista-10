@@ -69,7 +69,6 @@ src/
 ├── Televisao.java
 ├── ContaBancaria.java
 ├── Aluno.java
-│
 └── App.java
 ```
 
@@ -78,7 +77,7 @@ src/
 ## ▶️ Execução
 
 1. Compile todos os arquivos Java.
-2. Execute a classe `App.java`.
+2. Execute a classe `algprog-lista-10`.
 3. Observe a criação dos objetos e a execução dos métodos implementados.
 
 ---
